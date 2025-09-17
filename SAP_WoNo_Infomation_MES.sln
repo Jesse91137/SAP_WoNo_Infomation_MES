@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAP_WoNo_Infomation_MES", "SAP_WoNo_Infomation_MES\SAP_WoNo_Infomation_MES.csproj", "{7AEE4D71-B043-4575-9718-B6497E5CB29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEE4D71-B043-4575-9718-B6497E5CB29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEE4D71-B043-4575-9718-B6497E5CB29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEE4D71-B043-4575-9718-B6497E5CB29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEE4D71-B043-4575-9718-B6497E5CB29B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E51D75-7D35-4C6F-8A86-5C48739F56ED}
+	EndGlobalSection
+EndGlobal
